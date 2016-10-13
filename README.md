@@ -1,1 +1,2 @@
 # RobotBoard
+Plansza dla robotów 
